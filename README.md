@@ -32,9 +32,9 @@
  [![GitHub Followers](https://img.shields.io/github/followers/siddeshpillai?color=555&logo=github&style=for-the-badge)](https://github.com/siddeshpillai?tab=followers/)
  [![GitHub Latest Profile Commit](https://img.shields.io/github/last-commit/siddeshpillai/siddeshpillai?color=555&logo=github&style=for-the-badge&label=Latest%20Profile%20Commit)](https://github.com/siddeshpillai/siddeshpillai/commits/master)
 
-[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddeshpillai&theme=blue-green)]()
+[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddeshpillai&theme=blue-green)](https://github-readme-stats.vercel.app/api/top-langs/?username=siddeshpillai&theme=blue-green)
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=siddeshpillai&theme=blue-green)]()
+[![Stats](https://github-readme-stats.vercel.app/api?username=siddeshpillai&theme=blue-green)](https://github-readme-stats.vercel.app/api?username=siddeshpillai&theme=blue-green)
 
 [![Watchers](https://img.shields.io/github/watchers/siddeshpillai/qt-notification.svg)]()
 <hr>
