@@ -44,7 +44,6 @@
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=siddeshpillai&theme=blue-green)](https://github-readme-stats.vercel.app/api?username=siddeshpillai&theme=blue-green)
 
-[![Watchers](https://img.shields.io/github/watchers/siddeshpillai/qt-notification.svg)]()
 <hr>
 
 <hr>
