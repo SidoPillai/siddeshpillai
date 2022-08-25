@@ -45,7 +45,3 @@
 [![Stats](https://github-readme-stats.vercel.app/api?username=siddeshpillai&theme=blue-green)](https://github-readme-stats.vercel.app/api?username=siddeshpillai&theme=blue-green)
 
 <hr>
-
-<hr>
-<a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@siddeshpillai" alt="Page Views" align="right"></a>
-<hr>
