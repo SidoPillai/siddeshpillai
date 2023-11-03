@@ -35,8 +35,6 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCu_FELp-V3snNz_ti0iEzdA)
 
 ### GitHub Stats
-
- [![Profile Visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=siddeshpillai.visitor.badge.reloaded&color=555&style=for-the-badge&logo=github)](https://github.com/siddeshpillai)
  [![GitHub Followers](https://img.shields.io/github/followers/siddeshpillai?color=555&logo=github&style=for-the-badge)](https://github.com/siddeshpillai?tab=followers/)
  [![GitHub Latest Profile Commit](https://img.shields.io/github/last-commit/siddeshpillai/siddeshpillai?color=555&logo=github&style=for-the-badge&label=Latest%20Profile%20Commit)](https://github.com/siddeshpillai/siddeshpillai/commits/master)
 
